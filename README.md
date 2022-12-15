@@ -1,1 +1,2 @@
-# master-search-sort-algorithms
+# Master search and sort algorithms in Python  
+
